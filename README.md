@@ -52,7 +52,7 @@ This research initiative addresses the challenges in paddy farming by integratin
 
 ## System Architecture
 
-![System Architecture](https://github.com/HeshanRavi/iot-edge-agriculture-bigdata/assets/architecture-diagram.png)
+![System Diagram](https://private-user-images.githubusercontent.com/99629541/439256709-23a0087c-5f95-4495-9e7d-b008377971bb.png)
 
 **Workflow Overview:**
 1. **IoT Sensors & Cameras**: Capture real-time field data (pests, soil, weather).
